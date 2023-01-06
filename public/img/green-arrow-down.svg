@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>green-arrow-up-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #81dd47;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<g id="arrow-up">
+		<path id="Line_378" class="s0" d="m10 0.2v19.1"/>
+		<path id="Path_37884" class="s0" d="m19.3 9.8l-9.3 9.2-9.2-9.2"/>
+	</g>
+</svg>

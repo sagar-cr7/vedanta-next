@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580.053" height="484.325" viewBox="0 0 580.053 484.325">
+  <g id="pop3" transform="translate(-399 -2577.418)">
+    <g id="Group_142154" data-name="Group 142154" transform="translate(399 2580.418)">
+      <text id="India_Growth_Potentail" data-name="India Growth Potentail" transform="translate(0 13)" fill="#2a2a2a" font-size="14" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="0" y="0">India Growth Potentail</tspan></text>
+      <text id="India" transform="translate(356.849 22.254)" fill="#0063a8" font-size="12" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="0" y="0">India</tspan></text>
+      <text id="Population" transform="translate(78.631 211.629)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="0" y="0">Population</tspan></text>
+      <text id="Urbanisation" transform="translate(71.78 282.688)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="0" y="0">Urbanisation</tspan></text>
+      <line id="Line_763" data-name="Line 763" x2="574.609" transform="translate(0.302 30.072)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.5"/>
+      <g id="Group_142143" data-name="Group 142143" transform="translate(3.024 186.321)">
+        <path id="Path_39632" data-name="Path 39632" d="M107.092,317v3.941a.828.828,0,0,0,1.657,0V306.876a.828.828,0,0,0-1.657,0v8.414a2.662,2.662,0,0,1-1.829-2.524v-8.474a2.66,2.66,0,0,1,2.658-2.657h5.709a.828.828,0,0,0,0-1.657h-5.709a4.319,4.319,0,0,0-4.314,4.314v8.474A4.321,4.321,0,0,0,107.092,317Z" transform="translate(-103.607 -280.671)" fill="#0063a8"/>
+        <path id="Path_39633" data-name="Path 39633" d="M407.612,306.05a.828.828,0,0,0-.828.828V320.94a.828.828,0,0,0,1.657,0V317a4.321,4.321,0,0,0,3.486-4.232v-8.474a4.319,4.319,0,0,0-4.315-4.314H401.9a.828.828,0,0,0,0,1.657h5.709a2.66,2.66,0,0,1,2.658,2.657v8.474a2.661,2.661,0,0,1-1.829,2.524v-8.414a.829.829,0,0,0-.829-.828Z" transform="translate(-371.738 -280.673)" fill="#0063a8"/>
+        <path id="Path_39634" data-name="Path 39634" d="M239.945,312.77V304.3a4.319,4.319,0,0,0-4.314-4.314H227.7a4.319,4.319,0,0,0-4.314,4.314v8.474A4.321,4.321,0,0,0,226.868,317v3.941a.828.828,0,0,0,1.657,0V306.88a.828.828,0,0,0-1.657,0v8.414a2.661,2.661,0,0,1-1.828-2.524V304.3a2.66,2.66,0,0,1,2.657-2.657h7.934a2.66,2.66,0,0,1,2.657,2.657v8.474a2.661,2.661,0,0,1-1.828,2.524V306.88a.828.828,0,0,0-1.657,0v14.062a.828.828,0,0,0,1.657,0V317a4.321,4.321,0,0,0,3.485-4.232Z" transform="translate(-211.571 -280.675)" fill="#0063a8"/>
+        <path id="Path_39635" data-name="Path 39635" d="M152.971,205.2a4.108,4.108,0,1,0-2.9-1.2,4.106,4.106,0,0,0,2.9,1.2Zm0-6.551a2.449,2.449,0,1,1-1.73.717,2.447,2.447,0,0,1,1.73-.717Z" transform="translate(-144.403 -187.842)" fill="#0063a8"/>
+        <path id="Path_39636" data-name="Path 39636" d="M265.75,201.1a4.108,4.108,0,1,0,1.2-2.9,4.105,4.105,0,0,0-1.2,2.9Zm4.1-2.447a2.45,2.45,0,1,1-1.729.718,2.447,2.447,0,0,1,1.729-.718Z" transform="translate(-249.759 -187.846)" fill="#0063a8"/>
+        <path id="Path_39637" data-name="Path 39637" d="M382.62,201.1a4.108,4.108,0,1,0,1.2-2.9,4.1,4.1,0,0,0-1.2,2.9Zm4.1-2.447h0a2.45,2.45,0,1,1-1.729.718,2.449,2.449,0,0,1,1.729-.718Z" transform="translate(-355.103 -187.846)" fill="#0063a8"/>
+        <path id="Path_39638" data-name="Path 39638" d="M211.413,112.421a4.108,4.108,0,1,0-2.9-1.2,4.1,4.1,0,0,0,2.9,1.2Zm0-6.551h0a2.448,2.448,0,1,1-1.73.717,2.447,2.447,0,0,1,1.73-.717Z" transform="translate(-197.082 -104.213)" fill="#0063a8"/>
+        <path id="Path_39639" data-name="Path 39639" d="M328.283,112.421a4.108,4.108,0,1,0-2.9-1.2,4.1,4.1,0,0,0,2.9,1.2Zm0-6.551h0a2.449,2.449,0,1,1-1.729.717,2.445,2.445,0,0,1,1.729-.717Z" transform="translate(-302.426 -104.213)" fill="#0063a8"/>
+      </g>
+      <g id="Group_142144" data-name="Group 142144" transform="translate(5.444 263.137)">
+        <path id="Path_39640" data-name="Path 39640" d="M121.948,100.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,1,0,0-1.261Z" transform="translate(-110.597 -93.368)" fill="#0063a8"/>
+        <path id="Path_39641" data-name="Path 39641" d="M121.948,135.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,1,0,0-1.261Z" transform="translate(-110.597 -125.845)" fill="#0063a8"/>
+        <path id="Path_39642" data-name="Path 39642" d="M121.948,170.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,1,0,0-1.261Z" transform="translate(-110.597 -158.323)" fill="#0063a8"/>
+        <path id="Path_39643" data-name="Path 39643" d="M121.948,205.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,0,0,0-1.261Z" transform="translate(-110.597 -190.8)" fill="#0063a8"/>
+        <path id="Path_39644" data-name="Path 39644" d="M121.948,240.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,1,0,0-1.261Z" transform="translate(-110.597 -223.278)" fill="#0063a8"/>
+        <path id="Path_39645" data-name="Path 39645" d="M121.948,275.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,1,0,0-1.261Z" transform="translate(-110.597 -255.756)" fill="#0063a8"/>
+        <path id="Path_39646" data-name="Path 39646" d="M121.948,310.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,1,0,0-1.261Z" transform="translate(-110.597 -288.233)" fill="#0063a8"/>
+        <path id="Path_39647" data-name="Path 39647" d="M121.948,345.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,0,0,0-1.261Z" transform="translate(-110.597 -320.711)" fill="#0063a8"/>
+        <path id="Path_39648" data-name="Path 39648" d="M121.948,380.62h-7.567a.631.631,0,1,0,0,1.261h7.567a.631.631,0,1,0,0-1.261Z" transform="translate(-110.597 -353.189)" fill="#0063a8"/>
+        <path id="Path_39649" data-name="Path 39649" d="M109.728,39.1V10.089A1.894,1.894,0,0,0,107.836,8.2H98.377V9.459h9.459a.631.631,0,0,1,.631.631V39.1h-1.261V37.521a.631.631,0,1,0-1.261,0V39.1h-2.522V35.221a3.658,3.658,0,0,0,2.207-3.691c0-2.122-1.246-3.784-2.838-3.784s-2.838,1.662-2.838,3.784a3.658,3.658,0,0,0,2.207,3.691V39.1H99.638V37.521a.631.631,0,1,0-1.261,0V39.1H97.116V1.891A1.894,1.894,0,0,0,95.224,0H85.134a1.894,1.894,0,0,0-1.892,1.892V39.1H81.981V31.215a1.263,1.263,0,0,0-1.261-1.261H74.414a1.263,1.263,0,0,0-1.261,1.261V39.1H71.891V6.621a.631.631,0,0,1,.631-.631h9.459V4.729H72.522A1.894,1.894,0,0,0,70.63,6.621V39.1a.631.631,0,0,0,0,1.261h39.1a.631.631,0,0,0,0-1.261Zm-35.314,0V31.215H80.72V39.1ZM85.134,1.261h10.09a.631.631,0,0,1,.631.631v.631H84.5V1.891A.631.631,0,0,1,85.134,1.261ZM84.5,39.1V3.783H95.854V39.1Zm16.712-7.567c0-1.367.722-2.522,1.577-2.522s1.577,1.155,1.577,2.522-.722,2.522-1.577,2.522S101.215,32.9,101.215,31.53Z" transform="translate(-69.999 0.001)" fill="#0063a8"/>
+        <path id="Path_39650" data-name="Path 39650" d="M291.9,70h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H291.9a.631.631,0,0,0,.631-.631V70.631A.631.631,0,0,0,291.9,70Zm-.631,3.153h-1.261V71.261h1.261Z" transform="translate(-272.985 -64.955)" fill="#0063a8"/>
+        <path id="Path_39651" data-name="Path 39651" d="M361.9,70h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H361.9a.631.631,0,0,0,.631-.631V70.631A.631.631,0,0,0,361.9,70Zm-.631,3.153h-1.261V71.261h1.261Z" transform="translate(-337.94 -64.955)" fill="#0063a8"/>
+        <path id="Path_39652" data-name="Path 39652" d="M291.9,148.75h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H291.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,291.9,148.75Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-272.985 -138.029)" fill="#0063a8"/>
+        <path id="Path_39653" data-name="Path 39653" d="M361.9,148.75h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H361.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,361.9,148.75Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-337.94 -138.029)" fill="#0063a8"/>
+        <path id="Path_39654" data-name="Path 39654" d="M291.9,227.5h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H291.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,291.9,227.5Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-272.985 -211.104)" fill="#0063a8"/>
+        <path id="Path_39655" data-name="Path 39655" d="M361.9,227.5h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H361.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,361.9,227.5Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-337.94 -211.104)" fill="#0063a8"/>
+        <path id="Path_39656" data-name="Path 39656" d="M291.9,306.25h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H291.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,291.9,306.25Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-272.985 -284.178)" fill="#0063a8"/>
+        <path id="Path_39657" data-name="Path 39657" d="M361.9,306.25h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H361.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,361.9,306.25Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-337.94 -284.178)" fill="#0063a8"/>
+        <path id="Path_39658" data-name="Path 39658" d="M291.9,385h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H291.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,291.9,385Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-272.985 -357.253)" fill="#0063a8"/>
+        <path id="Path_39659" data-name="Path 39659" d="M361.9,385h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H361.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,361.9,385Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-337.94 -357.253)" fill="#0063a8"/>
+        <path id="Path_39660" data-name="Path 39660" d="M291.9,463.75h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H291.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,291.9,463.75Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-272.985 -430.327)" fill="#0063a8"/>
+        <path id="Path_39661" data-name="Path 39661" d="M361.9,463.75h-2.522a.631.631,0,0,0-.631.631v3.153a.631.631,0,0,0,.631.631H361.9a.631.631,0,0,0,.631-.631v-3.153A.631.631,0,0,0,361.9,463.75Zm-.631,3.153h-1.261v-1.892h1.261Z" transform="translate(-337.94 -430.327)" fill="#0063a8"/>
+        <path id="Path_39662" data-name="Path 39662" d="M464.381,153.164H466.9a.631.631,0,0,0,.631-.631v-3.153a.631.631,0,0,0-.631-.631h-2.522a.631.631,0,0,0-.631.631v3.153A.631.631,0,0,0,464.381,153.164Zm.631-3.153h1.261V151.9h-1.261Z" transform="translate(-435.372 -138.029)" fill="#0063a8"/>
+        <path id="Path_39663" data-name="Path 39663" d="M534.381,153.164H536.9a.631.631,0,0,0,.631-.631v-3.153a.631.631,0,0,0-.631-.631h-2.522a.631.631,0,0,0-.631.631v3.153A.631.631,0,0,0,534.381,153.164Zm.631-3.153h1.261V151.9h-1.261Z" transform="translate(-500.327 -138.029)" fill="#0063a8"/>
+        <path id="Path_39664" data-name="Path 39664" d="M464.381,231.914H466.9a.631.631,0,0,0,.631-.631v-3.153a.631.631,0,0,0-.631-.631h-2.522a.631.631,0,0,0-.631.631v3.153A.631.631,0,0,0,464.381,231.914Zm.631-3.153h1.261v1.892h-1.261Z" transform="translate(-435.372 -211.104)" fill="#0063a8"/>
+        <path id="Path_39665" data-name="Path 39665" d="M533.75,231.284a.631.631,0,0,0,.631.631H536.9a.631.631,0,0,0,.631-.631v-3.153a.631.631,0,0,0-.631-.631h-2.522a.631.631,0,0,0-.631.631Zm1.261-2.522h1.261v1.892h-1.261Z" transform="translate(-500.327 -211.104)" fill="#0063a8"/>
+        <path id="Path_39666" data-name="Path 39666" d="M464.381,310.664H466.9a.631.631,0,0,0,.631-.631v-3.153a.631.631,0,0,0-.631-.631h-2.522a.631.631,0,0,0-.631.631v3.153A.631.631,0,0,0,464.381,310.664Zm.631-3.153h1.261V309.4h-1.261Z" transform="translate(-435.372 -284.178)" fill="#0063a8"/>
+        <path id="Path_39667" data-name="Path 39667" d="M533.75,310.034a.631.631,0,0,0,.631.631H536.9a.631.631,0,0,0,.631-.631v-3.153a.631.631,0,0,0-.631-.631h-2.522a.631.631,0,0,0-.631.631Zm1.261-2.522h1.261V309.4h-1.261Z" transform="translate(-500.327 -284.178)" fill="#0063a8"/>
+      </g>
+      <g id="Group_142152" data-name="Group 142152" transform="translate(177.399 176.643)">
+        <line id="Line_766" data-name="Line 766" x2="393.765" transform="translate(0 51.003)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.5"/>
+        <rect id="Rectangle_1972" data-name="Rectangle 1972" width="115.874" height="20.509" transform="translate(48.195 30.494)" fill="#0063a8"/>
+        <rect id="Rectangle_1973" data-name="Rectangle 1973" width="115.527" height="24.194" transform="translate(234.714 26.613)" fill="#0063a8"/>
+        <text id="CAGR_0.8_" data-name="CAGR 0.8%" transform="translate(165.882 11.282)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">CAGR 0.8%</tspan></text>
+        <text id="_1.4bn" data-name="1.4bn" transform="translate(84.289 23.613)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">1.4bn</tspan></text>
+        <text id="_1.5bn" data-name="1.5bn" transform="translate(280.498 19.282)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">1.5bn</tspan></text>
+        <g id="Group_142148" data-name="Group 142148" transform="translate(266.167 10.282) rotate(87)">
+          <path id="Polygon_2" data-name="Polygon 2" d="M3.205,0,6.41,6.41H0Z" transform="translate(0 0)" fill="#74bf44"/>
+          <rect id="Rectangle_1969" data-name="Rectangle 1969" width="0.712" height="140.312" transform="translate(2.793 5.808)" fill="#74bf44"/>
+        </g>
+      </g>
+      <g id="Group_142153" data-name="Group 142153" transform="translate(177.222 255.332)">
+        <line id="Line_767" data-name="Line 767" x2="393.154" transform="translate(0 48.632)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.5"/>
+        <rect id="Rectangle_1974" data-name="Rectangle 1974" width="115.527" height="18.75" transform="translate(48.598 29.882)" fill="#0063a8"/>
+        <rect id="Rectangle_1975" data-name="Rectangle 1975" width="115.527" height="26.613" transform="translate(234.892 22.019)" fill="#0063a8"/>
+        <text id="CAGR_1.4_" data-name="CAGR 1.4%" transform="translate(170.552 8)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">CAGR 1.4%</tspan></text>
+        <text id="_35_" data-name="35%" transform="translate(89.8 24)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">35%</tspan></text>
+        <text id="_40_" data-name="40%" transform="translate(285.095 16)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">40%</tspan></text>
+        <g id="Group_142149" data-name="Group 142149" transform="translate(271.046 7.071) rotate(86)">
+          <path id="Polygon_2-2" data-name="Polygon 2" d="M3.205,0,6.41,6.41H0Z" fill="#74bf44"/>
+          <rect id="Rectangle_1969-2" data-name="Rectangle 1969" width="0.712" height="140.312" transform="translate(2.793 5.808)" fill="#74bf44"/>
+        </g>
+      </g>
+      <line id="Line_768" data-name="Line 768" x2="574.609" transform="translate(3.024 95.789)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.64"/>
+      <text id="GDP_Nominal_at_PPP_" data-name="GDP
+( Nominal at $PPP)" transform="translate(105.348 64.271)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="-11.71" y="0">GDP</tspan><tspan x="-50.572" y="11">( Nominal at $PPP)</tspan></text>
+      <g id="_9-productivity" data-name="9-productivity" transform="translate(3.024 47.205)">
+        <path id="Path_39446" data-name="Path 39446" d="M33.927,21.141a.531.531,0,0,0-.512-.119l-8.5,2.511a.533.533,0,0,0-.226.888l1.423,1.423-7.465,7.465-4.51-4.51a2.671,2.671,0,0,0-3.781.015L.142,39.818a.533.533,0,0,0,.781.725l10.2-10.991a1.6,1.6,0,0,1,2.261,0l4.886,4.887a.548.548,0,0,0,.753,0l8.218-8.218a.533.533,0,0,0,0-.753L26.077,24.3l6.787-2-1.507,7.285-1.1-1.1a.533.533,0,0,0-.753,0L19.778,38.2a1.6,1.6,0,0,1-2.261,0l-4.886-4.887a.533.533,0,0,0-.777.025L3.33,43.025a.533.533,0,1,0,.8.7l8.15-9.256,4.485,4.486a2.668,2.668,0,0,0,3.768,0L29.88,29.61,31.3,31.033a.533.533,0,0,0,.9-.269l1.887-9.123a.534.534,0,0,0-.161-.5Z" transform="translate(0 -9.811)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39447" data-name="Path 39447" d="M16.533,56a.533.533,0,0,0-.533.533v3.2a.533.533,0,1,0,1.066,0v-3.2A.533.533,0,0,0,16.533,56Z" transform="translate(-7.475 -26.164)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39448" data-name="Path 39448" d="M4.533,41.057a.533.533,0,0,0,.533-.533V33.066h5.328V33.6a.533.533,0,1,0,1.066,0V32.533A.533.533,0,0,0,10.926,32H4.533A.533.533,0,0,0,4,32.533v7.992A.533.533,0,0,0,4.533,41.057Z" transform="translate(-1.869 -14.951)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39449" data-name="Path 39449" d="M46.533,48a.533.533,0,0,0-.533.533v7.459a.533.533,0,1,0,1.066,0V48.533A.533.533,0,0,0,46.533,48Z" transform="translate(-21.492 -22.426)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39450" data-name="Path 39450" d="M46.533,12.787a.533.533,0,0,0,.533-.533V1.066h5.328v9.057a.533.533,0,1,0,1.066,0V.533A.533.533,0,0,0,52.926,0H46.533A.533.533,0,0,0,46,.533V12.254A.533.533,0,0,0,46.533,12.787Z" transform="translate(-21.492 0)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39451" data-name="Path 39451" d="M58.533,42a.533.533,0,0,0-.533.533V53.189a.533.533,0,1,0,1.066,0V42.533A.533.533,0,0,0,58.533,42Z" transform="translate(-27.098 -19.623)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39452" data-name="Path 39452" d="M37.533,57a.533.533,0,0,0-.533.533V60.2a.533.533,0,1,0,1.066,0V57.533A.533.533,0,0,0,37.533,57Z" transform="translate(-17.287 -26.631)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39453" data-name="Path 39453" d="M25.533,26.926a.533.533,0,0,0,.533-.533V21.066h5.328V29.59a.533.533,0,1,0,1.066,0V20.533A.533.533,0,0,0,31.926,20H25.533a.533.533,0,0,0-.533.533v5.861A.533.533,0,0,0,25.533,26.926Z" transform="translate(-11.68 -9.344)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+        <path id="Path_39454" data-name="Path 39454" d="M25.533,51a.533.533,0,0,0-.533.533v5.861a.533.533,0,0,0,1.066,0V51.533A.533.533,0,0,0,25.533,51Z" transform="translate(-11.68 -23.828)" fill="#0063a8" stroke="#0063a8" stroke-width="0.5"/>
+      </g>
+      <g id="Group_142150" data-name="Group 142150" transform="translate(177.399 37.941)">
+        <line id="Line_764" data-name="Line 764" x2="393.765" transform="translate(0 43.068)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.5"/>
+        <rect id="Rectangle_1967" data-name="Rectangle 1967" width="115.874" height="8.203" transform="translate(48.195 34.865)" fill="#0063a8"/>
+        <rect id="Rectangle_1968" data-name="Rectangle 1968" width="116.899" height="15.381" transform="translate(233.798 27.687)" fill="#0063a8"/>
+        <text id="_10.3tr" data-name="$10.3tr" transform="translate(81.999 28.881)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">$10.3tr</tspan></text>
+        <text id="CAGR_8.4_" data-name="CAGR 8.4%" transform="translate(164.068 10.254)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">CAGR 8.4%</tspan></text>
+        <text id="_21.2tr" data-name="$21.2tr" transform="translate(277.891 18.254)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">$21.2tr</tspan></text>
+        <g id="Group_142146" data-name="Group 142146" transform="translate(268.697 2.54) rotate(82)">
+          <path id="Polygon_2-3" data-name="Polygon 2" d="M3.205,0,6.41,6.41H0Z" transform="translate(0 0)" fill="#74bf44"/>
+          <rect id="Rectangle_1969-3" data-name="Rectangle 1969" width="0.712" height="140.312" transform="translate(2.793 5.808)" fill="#74bf44"/>
+        </g>
+      </g>
+      <text id="_2021" data-name="2021" transform="translate(275 91.06)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2021</tspan></text>
+      <text id="_2030" data-name="2030" transform="translate(462 91.06)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2030</tspan></text>
+      <line id="Line_770" data-name="Line 770" x2="574.609" transform="translate(5.444 240.364)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.64"/>
+      <line id="Line_771" data-name="Line 771" x2="574.609" transform="translate(3.024 316.878)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.64"/>
+      <text id="_2021-2" data-name="2021" transform="translate(275 236.463)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2021</tspan></text>
+      <text id="_2021-3" data-name="2021" transform="translate(275 312.977)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2021</tspan></text>
+      <text id="Per_capita_income_Nominal_at_PPP_" data-name="Per capita income
+(Nominal at $PPP)" transform="translate(105.399 134.001)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="-47.724" y="0">Per capita income</tspan><tspan x="-49.049" y="11">(Nominal at $PPP)</tspan></text>
+      <g id="Group_142145" data-name="Group 142145" transform="translate(3.024 111.772)">
+        <g id="Group_142142" data-name="Group 142142" transform="translate(0 19.48)">
+          <path id="Path_39630" data-name="Path 39630" d="M280.489,254.155h-.03a2.069,2.069,0,0,0-1.927,1.569l-.635,2.608a8.528,8.528,0,0,1-4.553,5.659.781.781,0,0,1-1.112-.836l.5-2.872a1.606,1.606,0,0,0-2.935-1.142l-3.245,5.069a1.191,1.191,0,0,0-1.536.123l-2.354,2.354a.593.593,0,0,0,0,.838l6.835,6.835a.593.593,0,0,0,.838,0l2.354-2.354a1.191,1.191,0,0,0,.066-1.609,18.587,18.587,0,0,0,2.191-1.432.593.593,0,0,0-.717-.945,18.057,18.057,0,0,1-2.342,1.5l-4.468-4.468,3.376-5.274a.42.42,0,0,1,.768.3l-.5,2.872a1.966,1.966,0,0,0,2.8,2.1,9.71,9.71,0,0,0,5.184-6.444l.635-2.608c.2-.84,1.412-.879,1.341-.143a17.4,17.4,0,0,1-5.062,10.657.593.593,0,1,0,.835.842,18.592,18.592,0,0,0,5.408-11.384A1.663,1.663,0,0,0,280.489,254.155ZM269.919,273.1l-6-6,1.94-1.935,5.991,6Z" transform="translate(-241.743 -254.154)" fill="#0063a8"/>
+          <path id="Path_39631" data-name="Path 39631" d="M17.195,264.332a1.191,1.191,0,0,0-1.536-.123l-3.245-5.069a1.606,1.606,0,0,0-2.935,1.142l.5,2.872a.781.781,0,0,1-1.112.835,8.528,8.528,0,0,1-4.553-5.659l-.635-2.608a2.069,2.069,0,0,0-1.927-1.569H1.725a1.663,1.663,0,0,0-1.717,1.822A18.544,18.544,0,0,0,9.456,270.4a1.191,1.191,0,0,0,.065,1.61l2.354,2.354a.593.593,0,0,0,.838,0l2.631-2.631a.593.593,0,1,0-.838-.838L12.3,273.1l-1.935-1.939,6-5.991,1.935,1.935-2.109,2.109a.593.593,0,1,0,.838.838l2.528-2.528a.593.593,0,0,0,0-.838ZM1.188,255.86a.477.477,0,0,1,.492-.522H1.71a.867.867,0,0,1,.819.664l.635,2.608a9.71,9.71,0,0,0,5.184,6.444,1.966,1.966,0,0,0,2.8-2.1l-.5-2.872a.42.42,0,0,1,.768-.3l3.376,5.274-4.468,4.468A17.494,17.494,0,0,1,1.188,255.86Z" transform="translate(0 -254.151)" fill="#0063a8"/>
+        </g>
+        <g id="Group_142141" data-name="Group 142141" transform="translate(11.332 0)">
+          <g id="Ellipse_276" data-name="Ellipse 276" transform="translate(0 0)" fill="none" stroke="#0063a8" stroke-width="1.5">
+            <ellipse cx="8.716" cy="9.229" rx="8.716" ry="9.229" stroke="none"/>
+            <ellipse cx="8.716" cy="9.229" rx="7.966" ry="8.479" fill="none"/>
+          </g>
+          <text id="_" data-name="$" transform="translate(9.153 11.026)" fill="#0063a8" font-size="9" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="-2.898" y="0">$</tspan></text>
+        </g>
+      </g>
+      <g id="Group_142151" data-name="Group 142151" transform="translate(177.222 108.295)">
+        <line id="Line_765" data-name="Line 765" x2="393.154" transform="translate(0 43.141)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.5"/>
+        <rect id="Rectangle_1970" data-name="Rectangle 1970" width="115.527" height="13.912" transform="translate(48.388 29.23)" fill="#0063a8"/>
+        <rect id="Rectangle_1971" data-name="Rectangle 1971" width="115.527" height="24.996" transform="translate(234.892 18.146)" fill="#0063a8"/>
+        <text id="CAGR_7.4_" data-name="CAGR 7.4%" transform="translate(160.963 8.406)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">CAGR 7.4%</tspan></text>
+        <text id="_7_387" data-name="$7,387" transform="translate(86.652 23)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">$7,387</tspan></text>
+        <text id="_14_093" data-name="$14,093" transform="translate(276.837 11.406)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">$14,093</tspan></text>
+        <g id="Group_142147" data-name="Group 142147" transform="translate(268.875 2.546) rotate(82)">
+          <path id="Polygon_2-4" data-name="Polygon 2" d="M3.205,0,6.41,6.41H0Z" transform="translate(0 0)" fill="#74bf44"/>
+          <rect id="Rectangle_1969-4" data-name="Rectangle 1969" width="0.712" height="140.312" transform="translate(2.793 5.808)" fill="#74bf44"/>
+        </g>
+      </g>
+      <line id="Line_769" data-name="Line 769" x2="574.609" transform="translate(3.024 164.954)" fill="none" stroke="#606060" stroke-width="0.5" opacity="0.64"/>
+      <text id="_2021-4" data-name="2021" transform="translate(275 161.814)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2021</tspan></text>
+      <text id="_2030-2" data-name="2030" transform="translate(462 161.814)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2030</tspan></text>
+      <text id="_2030-3" data-name="2030" transform="translate(462 236.463)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2030</tspan></text>
+      <text id="_2030-4" data-name="2030" transform="translate(462 312.977)" fill="#2a2a2a" font-size="8" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">2030</tspan></text>
+    </g>
+    <text id="India_Mineral_reserve_ranking_globally" data-name="India Mineral reserve ranking globally" transform="translate(399 2919.505)" fill="#0063a8" font-size="12" font-family="MPLUS1-SemiBold, 'M PLUS \31 '" font-weight="600"><tspan x="0" y="0">India Mineral reserve ranking globally</tspan></text>
+    <g id="Group_142182" data-name="Group 142182">
+      <g id="Rectangle_1976" data-name="Rectangle 1976" transform="translate(511 2936)" fill="none" stroke="#74bf44" stroke-width="1">
+        <rect width="166.12" height="36" stroke="none"/>
+        <rect x="0.5" y="0.5" width="165.12" height="35" fill="none"/>
+      </g>
+      <g id="Group_142155" data-name="Group 142155" transform="translate(555.026 2945)">
+        <text id="_8th_Zinc" data-name="8th Zinc" transform="translate(16.974 7)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">8th Zinc</tspan></text>
+        <text id="Reserve:_9.1m_tones" data-name="Reserve: 9.1m tones" transform="translate(-15.026 20.28)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500" opacity="0.78"><tspan x="0" y="0">Reserve: 9.1m tones</tspan></text>
+      </g>
+    </g>
+    <g id="Group_142183" data-name="Group 142183" transform="translate(0 3)">
+      <g id="Rectangle_1976-2" data-name="Rectangle 1976" transform="translate(511 2978)" fill="none" stroke="#74bf44" stroke-width="1">
+        <rect width="166.12" height="36" stroke="none"/>
+        <rect x="0.5" y="0.5" width="165.12" height="35" fill="none"/>
+      </g>
+      <g id="Group_142155-2" data-name="Group 142155" transform="translate(542.916 2987)">
+        <text id="_7th_Iron_Ore" data-name="7th Iron Ore" transform="translate(18.084 7)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">7th Iron Ore</tspan></text>
+        <text id="Reserve:_5.5bn_tones" data-name="Reserve: 5.5bn tones" transform="translate(-4.916 20.28)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500" opacity="0.78"><tspan x="0" y="0">Reserve: 5.5bn tones</tspan></text>
+      </g>
+    </g>
+    <g id="Group_142181" data-name="Group 142181">
+      <g id="Rectangle_1976-3" data-name="Rectangle 1976" transform="translate(700 2936)" fill="none" stroke="#74bf44" stroke-width="1">
+        <rect width="167.145" height="36.493" stroke="none"/>
+        <rect x="0.5" y="0.5" width="166.145" height="35.493" fill="none"/>
+      </g>
+      <g id="Group_142155-3" data-name="Group 142155" transform="translate(738.749 2945)">
+        <text id="Crude_Oil" data-name="Crude Oil" transform="translate(19.251 7)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">Crude Oil</tspan></text>
+        <text id="Reserve:_4.6bn_bbl" data-name="Reserve: 4.6bn bbl" transform="translate(-4.748 20.28)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500" opacity="0.78"><tspan x="0" y="0">Reserve: 4.6bn bbl</tspan></text>
+      </g>
+    </g>
+    <g id="Group_142180" data-name="Group 142180" transform="translate(0 3)">
+      <g id="Rectangle_1976-4" data-name="Rectangle 1976" transform="translate(700 2978)" fill="none" stroke="#74bf44" stroke-width="1">
+        <rect width="167.145" height="36" stroke="none"/>
+        <rect x="0.5" y="0.5" width="166.145" height="35" fill="none"/>
+      </g>
+      <g id="Group_142155-4" data-name="Group 142155" transform="translate(732.621 2987)">
+        <text id="_8th_Bauxite" data-name="8th Bauxite" transform="translate(19.379 7)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">8th Bauxite</tspan></text>
+        <text id="Reserve:_660m_tones" data-name="Reserve: 660m tones" transform="translate(-5.62 20.28)" fill="#2a2a2a" font-size="11" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500" opacity="0.78"><tspan x="0" y="0">Reserve: 660m tones</tspan></text>
+      </g>
+    </g>
+    <text id="Source:_USGS_Mineral_Commodity_Summaries_2022_OPEC_Annual_Statistical_Bulletin_2021._" data-name="Source: USGS Mineral Commodity Summaries 2022, OPEC Annual Statistical Bulletin 2021. " transform="translate(399 3058.743)" fill="#606060" font-size="12" font-family="MPLUS1-Medium, 'M PLUS \31 '" font-weight="500"><tspan x="0" y="0">Source: USGS Mineral Commodity Summaries 2022, OPEC Annual Statistical Bulletin 2021. </tspan></text>
+  </g>
+</svg>

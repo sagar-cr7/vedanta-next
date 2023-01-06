@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0e2d68"/>
+      <stop offset="1" stop-color="#db31b3"/>
+    </linearGradient>
+    <clipPath id="clip-Multiple">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Multiple" clip-path="url(#clip-Multiple)">
+    <rect width="40" height="40" fill="#fff"/>
+    <path id="Mutiple" d="M21.721,3.375c-7.644,0-13.846,5.76-13.846,12.856,0,10,13.846,27.144,13.846,27.144S35.567,26.231,35.567,16.231C35.567,9.135,29.365,3.375,21.721,3.375Zm0,18.356a4.51,4.51,0,1,1,4.51-4.51A4.51,4.51,0,0,1,21.721,21.731Z" transform="translate(-2.087 -3.375)" stroke="#fff" stroke-width="1" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.5" cy="5.5" r="5.5" transform="translate(14 8)" fill="#fff"/>
+  </g>
+</svg>

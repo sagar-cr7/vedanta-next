@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-Copper">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Copper" clip-path="url(#clip-Copper)">
+    <rect width="40" height="40" fill="#fff"/>
+    <path id="Copper-2" data-name="Copper" d="M21.721,3.375c-7.644,0-13.846,5.76-13.846,12.856,0,10,13.846,27.144,13.846,27.144S35.567,26.231,35.567,16.231C35.567,9.135,29.365,3.375,21.721,3.375Zm0,18.356a4.51,4.51,0,1,1,4.51-4.51A4.51,4.51,0,0,1,21.721,21.731Z" transform="translate(-2.087 -3.375)" fill="#f89c1c" stroke="#fff" stroke-width="1"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.5" cy="5.5" r="5.5" transform="translate(14 8)" fill="#fff"/>
+  </g>
+</svg>

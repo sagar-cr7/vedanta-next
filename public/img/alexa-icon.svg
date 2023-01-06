@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <g id="_Alexa_icon_12x12" data-name=" Alexa icon 12x12" transform="translate(-1592 -4823)">
+    <g id="Rectangle_2460" data-name="Rectangle 2460" transform="translate(1592 4823)" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="12" height="12" stroke="none"/>
+      <rect x="0.5" y="0.5" width="11" height="11" fill="none"/>
+    </g>
+    <g id="amazon-alexa-icon" transform="translate(1591.997 4823.015)">
+      <path id="Path_37882" data-name="Path 37882" d="M5.989,0a5.992,5.992,0,0,0-.8,11.93V10.723a.792.792,0,0,0-.537-.755A4.194,4.194,0,1,1,10.18,5.992v.192a.771.771,0,0,1-.009.144v.046c0,.034-.007.066-.01.1s-.009.075-.015.112a.127.127,0,0,1-.007.05C9.627,10.019,5.223,11.92,5.2,11.929A5.992,5.992,0,1,0,5.989,0Z" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

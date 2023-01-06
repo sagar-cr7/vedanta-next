@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Component_21_16" data-name="Component 21 – 16" transform="translate(0 25) rotate(-90)">
+    <path id="Path_44598" data-name="Path 44598" d="M12.5,0A12.5,12.5,0,1,1,0,12.5,12.5,12.5,0,0,1,12.5,0Z" fill="#74bf44"/>
+    <g id="arrow-right" transform="translate(22.713 2.287) rotate(90)">
+      <line id="Line_374" data-name="Line 374" x2="10" transform="translate(5 10)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_37880" data-name="Path 37880" d="M12,5l5.213,5.213L12,15.426" transform="translate(-1.787)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
